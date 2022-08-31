@@ -1,0 +1,15 @@
+C:\Users\mdova\Desktop\CSharp\TrabalhoASL\bin\Debug\net6.0\TrabalhoASL.exe
+C:\Users\mdova\Desktop\CSharp\TrabalhoASL\bin\Debug\net6.0\TrabalhoASL.deps.json
+C:\Users\mdova\Desktop\CSharp\TrabalhoASL\bin\Debug\net6.0\TrabalhoASL.runtimeconfig.json
+C:\Users\mdova\Desktop\CSharp\TrabalhoASL\bin\Debug\net6.0\TrabalhoASL.dll
+C:\Users\mdova\Desktop\CSharp\TrabalhoASL\bin\Debug\net6.0\TrabalhoASL.pdb
+C:\Users\mdova\Desktop\CSharp\TrabalhoASL\obj\Debug\net6.0\TrabalhoASL.csproj.AssemblyReference.cache
+C:\Users\mdova\Desktop\CSharp\TrabalhoASL\obj\Debug\net6.0\TrabalhoASL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdova\Desktop\CSharp\TrabalhoASL\obj\Debug\net6.0\TrabalhoASL.AssemblyInfoInputs.cache
+C:\Users\mdova\Desktop\CSharp\TrabalhoASL\obj\Debug\net6.0\TrabalhoASL.AssemblyInfo.cs
+C:\Users\mdova\Desktop\CSharp\TrabalhoASL\obj\Debug\net6.0\TrabalhoASL.csproj.CoreCompileInputs.cache
+C:\Users\mdova\Desktop\CSharp\TrabalhoASL\obj\Debug\net6.0\TrabalhoASL.dll
+C:\Users\mdova\Desktop\CSharp\TrabalhoASL\obj\Debug\net6.0\refint\TrabalhoASL.dll
+C:\Users\mdova\Desktop\CSharp\TrabalhoASL\obj\Debug\net6.0\TrabalhoASL.pdb
+C:\Users\mdova\Desktop\CSharp\TrabalhoASL\obj\Debug\net6.0\TrabalhoASL.genruntimeconfig.cache
+C:\Users\mdova\Desktop\CSharp\TrabalhoASL\obj\Debug\net6.0\ref\TrabalhoASL.dll
